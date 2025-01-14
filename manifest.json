@@ -3,8 +3,8 @@
     "id": "radar_chart",
     "label": "Radar Chart",
     "description": "A simple radar chart using Chart.js",
-    "script": "https://seu-servidor/radar-chart.js",
-    "icon": "https://seu-servidor/radar-icon.png"
+    "script": "https://github.com/grupoboticario/tools-squad-qa-vd/blob/main/radar-chart/radar.chart.js",
+    "icon": "https://github.com/grupoboticario/tools-squad-qa-vd/blob/main/radar-chart/radar-chart-icon.png"
   },
   "data": {
     "dataTypes": {
