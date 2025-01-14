@@ -1,0 +1,24 @@
+{
+  "visualization": {
+    "id": "radar_chart",
+    "label": "Radar Chart",
+    "description": "A simple radar chart using Chart.js",
+    "script": "https://seu-servidor/radar-chart.js",
+    "icon": "https://seu-servidor/radar-icon.png"
+  },
+  "data": {
+    "dataTypes": {
+      "dimensions": ["DIMENSION"],
+      "metrics": ["METRIC"]
+    }
+  },
+  "style": {
+    "default": {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#000000"
+    }
+  },
+  "interactivity": {
+    "supportsInteraction": false
+  }
+}
